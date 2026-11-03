@@ -8,6 +8,6 @@ GrupoMultimedios - Puerto Deseado, Santa Cruz
 Dante Roffignac - Programador y Líder de Proyecto
 # Contexto academico
 - Materia: Organizacion Empresarial
-- Carrera: Tecnico Universitario en Programación
+- Carrera: Tecnicatura Universitaria en Programacion a Distancia (TUP AD)
 - Universidad: UTN
-- Docentes: Profesora Gabriela Martinez
+- Docentes: Prof. Gabriela Martinez (titular) Prof. Carolina Bruno, Prof. Mario Raúl López, Prof. Andrea Ramos (Adjuntos)
