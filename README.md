@@ -6,7 +6,7 @@ Se busca implementar un sistema de registro de incidencias para el control de fa
 GrupoMultimedios - Puerto Deseado, Santa Cruz
 # Integrantes
 Dante Roffignac - Programador y Líder de Proyecto
-#Contexto academico
+# Contexto academico
 - Materia: Organizacion Empresarial
 - Carrera: Tecnico Universitario en Programación
 - Universidad: UTN
